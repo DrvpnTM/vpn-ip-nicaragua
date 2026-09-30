@@ -1,18 +1,17 @@
-# VPN IP Nicaragua — Dr VPN
+# VPN IP Nicaragua — Fast, Secure VPN for Nicaragua
 
-**VPN IP Nicaragua** is a fast, secure and free VPN for Android. Get a **Nicaragua IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Nicaragua** is a free, open-source, ad-free VPN app for Android, built for users in Nicaragua. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Nicaragua (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ni_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-nicaragua/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Nicaragua IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Nicaragua, Nicaragua VPN, VPN IP Nicaragua, Nicaragua IP address, free VPN Nicaragua, buy VPN Nicaragua, fast VPN Nicaragua, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Nicaragua, free VPN Nicaragua, fast VPN, VPN IP Nicaragua, Android VPN, unblock websites Nicaragua.</sub>
